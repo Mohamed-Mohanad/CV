@@ -1,4 +1,4 @@
-Boulaq El-Dakrour, Giza | +201143475759 | [Gmail](mailto:mohamedmohanad0852@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-mohanad/)
+Boulaq El-Dakrour, Giza | +201143475759 | [Gmail](mailto:mohamedmohanad0852@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-mohanad/) | [GitHub](https://github.com/Mohamed-Mohanad)
 
 ---
 
@@ -30,17 +30,17 @@ _Sep 2019 – Jun 2023_<br>
 
 ## Experience
 
-### ASP.NET DEVELOPER | Project EGY
+### ASP.NET DEVELOPER | [ProjectEGY](https://project-eg.com)
 
 _Oct 2022 - Mar 2023 . 6 mos_<br>
 ProjectEGY is a startup supporting the digital transformation process by developing websites and mobile apps for clients
 
-### ASP.NET DEVELOPER | Romeya Agency
+### ASP.NET DEVELOPER | [Romeya](https://romeya.com)
 
 _Feb 2023 - Sep 2023 . 8 mos_<br>
 Romeya Agency Maximize our levels and fly well to the sky with your business taking your company to Rally races and winning every race.
 
-### Software Engineer .NET DEVELOPER | HelpTK
+### Software Engineer .NET DEVELOPER | [HelpTK](https://helptk.com)
 
 _Mar 2023 - Sep 2023 . 7 mos_<br>
 Helptk is a software company specializing in developing software and technical solutions. Helptk design and develop customized software templates for all businesses easily and distinctively.
@@ -48,6 +48,9 @@ Helptk is a software company specializing in developing software and technical s
 ---
 
 ## Projects
+
+### ELO E-Commerce System
+- ELO is a cutting-edge e-commerce platform tailored to the industrial sector in Qatar, focusing on the rental of equipment and machinery. Its primary goal is to make the rental process easier and faster for businesses by offering two distinct rental options: instant rental for immediate needs and quotation requests for customized rental solutions. ELO's user-friendly interface and follow-up system ensure a smooth experience from selection to return, providing a seamless way to manage equipment rentals and streamline operations. Whether you need equipment on-demand or prefer to negotiate terms, ELO delivers a flexible and efficient solution for all your industrial rental needs.
 
 ### APS Educational System
 
@@ -61,7 +64,7 @@ Helptk is a software company specializing in developing software and technical s
 
 - Created a comprehensive Human Resource Management (HRM) system to streamline various HR functions such as employee data management, recruitment, performance evaluations, payroll, and benefits administration. The system includes tools for attendance tracking, leave management, and reporting, designed to improve HR operations and decision-making. It features an intuitive interface for HR professionals and employees, ensuring seamless integration and efficient human resources management.
 
-### IClothes E-commerce System
+### IClothes E-Commerce System
 
 - Architected and developed a microservices-based, multi-vendor e-commerce platform for clothing, incorporating essential e-commerce features like product catalogs, secure payments, and order management. The platform leverages machine learning for virtual try-on and personalized product recommendations, significantly enhancing the shopping experience. Led the backend development and team coordination to ensure high performance and scalability of the system.
 
