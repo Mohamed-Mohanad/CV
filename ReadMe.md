@@ -49,10 +49,16 @@ Helptk is a software company specializing in developing software and technical s
 
 ## Projects
 
-### ELO E-Commerce System
+### [ELO E-Commerce System](https://elo-link.com)
+
 - ELO is a cutting-edge e-commerce platform tailored to the industrial sector in Qatar, focusing on the rental of equipment and machinery. Its primary goal is to make the rental process easier and faster for businesses by offering two distinct rental options: instant rental for immediate needs and quotation requests for customized rental solutions. ELO's user-friendly interface and follow-up system ensure a smooth experience from selection to return, providing a seamless way to manage equipment rentals and streamline operations. Whether you need equipment on-demand or prefer to negotiate terms, ELO delivers a flexible and efficient solution for all your industrial rental needs.
 
-### APS Educational System
+### [Milet Consulting Architects Ooffice System](https://play.google.com/store/apps/details?id=com.milet.millet)
+
+- Developed a project management system for an architectural office that manages all ongoing projects. Key features include,
+File Management Organizes project files, including architectural drawings and documents, Billing Tracking Manages customer payments with automatic reminders for due dates, Project Status Updates Tracks and reports project progress to keep clients informed, and Notifications Sends alerts to clients about upcoming bills and project updates. This system simplifies project organization, billing, and communication, improving efficiency and client satisfaction.
+
+### [APS Educational System](https://apsdashboard.runasp.net/)
 
 - Developed an advanced online educational platform that allows students to purchase and access video-based courses from various teachers. The system features dashboards for teachers, teaching assistants, administrators, and parents, facilitating course management and student engagement. Teachers can upload content, track student progress, and interact with students, while administrators handle user management, course approvals, and analytics. The platform includes parent controls for monitoring student performance and course participation. It supports seamless online learning with features such as video streaming, engagement tools, and a secure payment system.
 
