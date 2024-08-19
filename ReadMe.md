@@ -23,7 +23,7 @@ _Sep 2019 – Jun 2023_<br>
 
 - **Languages:** C/C++, SQL (PostgreSQL, Ms SQL), C#
 - **Frameworks:** ASP.NET, Entity Framework Core
-- **DevOps and API Tools:** IIS, Git, Docker, Azure DevOps, GitHub CI/CD, Postman
+- **DevOps and API Tools:** IIS, Git, Docker, GitHub CI/CD, Postman
 - **Others:** Agile, SOLID Principles, Algorithms, Data Structures, Design Patterns, OOP, Advanced C#, SignalR, Domain-Driven Design (DDD), Clean Architecture, Redis, Elasticsearch, MassTransit, RabbitMQ, gRPC, Microservices, Background Processing using Hangfire, Background Workers Concept
 
 ---
@@ -53,7 +53,7 @@ Helptk is a software company specializing in developing software and technical s
 
 - ELO is a cutting-edge e-commerce platform tailored to the industrial sector in Qatar, focusing on the rental of equipment and machinery. Its primary goal is to make the rental process easier and faster for businesses by offering two distinct rental options: instant rental for immediate needs and quotation requests for customized rental solutions. ELO's user-friendly interface and follow-up system ensure a smooth experience from selection to return, providing a seamless way to manage equipment rentals and streamline operations. Whether you need equipment on-demand or prefer to negotiate terms, ELO delivers a flexible and efficient solution for all your industrial rental needs.
 
-### [Milet Consulting Architects Ooffice System](https://play.google.com/store/apps/details?id=com.milet.millet)
+### [Milet Consulting Architects Office System](https://play.google.com/store/apps/details?id=com.milet.millet)
 
 - Developed a project management system for an architectural office that manages all ongoing projects. Key features include,
 File Management Organizes project files, including architectural drawings and documents, Billing Tracking Manages customer payments with automatic reminders for due dates, Project Status Updates Tracks and reports project progress to keep clients informed, and Notifications Sends alerts to clients about upcoming bills and project updates. This system simplifies project organization, billing, and communication, improving efficiency and client satisfaction.
